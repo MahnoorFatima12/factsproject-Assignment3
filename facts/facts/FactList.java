@@ -56,5 +56,4 @@ public class FactList{
 	public Fact getRandom(){
 		return factList.get(randomGen.nextInt(factList.size()));
 	}
-
 }
