@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<fact-list>
+<?xml version="2.0" encoding="UTF-8" standalone="no"?><fact-list>
 	<fact>
 		<fact-text>The working environment has a profound impact on productivity and quality.</fact-text>
 		<author>Robert L. Glass</author>
@@ -50,4 +49,4 @@
 		<author>Robert L. Glass</author>
 		<fact-type>Fact</fact-type>
 	</fact>
-</fact-list>
+<Fact><fact-text>We all shall die.</fact-text><author>Abc</author><fact-type>fact</fact-type></Fact></fact-list>
