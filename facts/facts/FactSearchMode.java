@@ -7,3 +7,4 @@ public interface FactSearchMode {
 	int ALL_VAL    = 3;
 
 }
+
