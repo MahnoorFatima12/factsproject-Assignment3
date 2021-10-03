@@ -49,4 +49,8 @@
 		<author>Robert L. Glass</author>
 		<fact-type>Fact</fact-type>
 	</fact>
-<Fact><fact-text>We all shall die.</fact-text><author>Abc</author><fact-type>fact</fact-type></Fact></fact-list>
+<Fact>
+	<fact-text>We all shall die.</fact-text>
+	<author>Abc</author>
+	<fact-type>fact</fact-type>
+	</Fact></fact-list>
