@@ -5,6 +5,7 @@ public class FactsMain {
     private static final String jsFile = "C:/Users/MF/Desktop/CS4367/factsAssignment2/src/facts/data/facts.js";
     private static final String xmlFile = "C:/Users/MF/Desktop/CS4367/factsAssignment2/src/facts/data/facts.xml";
     private facts.FactList list;
+	facts.Parser parser = null;
     
     GuiFrame gFrame = new GuiFrame(this);
 
@@ -62,6 +63,8 @@ public class FactsMain {
           
     }
 
-    
+     void saveFact(String fact, String author, String type) {
+        parser.saveFact(fact, author, type, xmlFile);
+    }
     
 }
