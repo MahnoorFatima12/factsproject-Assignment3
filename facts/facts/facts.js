@@ -12,3 +12,4 @@
  function setFocus(){
     document.FactServlet.searchText.focus();
  }
+
